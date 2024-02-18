@@ -101,7 +101,7 @@ const Navbar = () => {
         <NavMd />
       </div>
       {/* Large Screen NavBar */}
-      <div className="hidden md:hidden lg:flex">
+      <div className="v">
         <NavLg />
       </div>
     </nav>
